@@ -5,7 +5,7 @@ int main() {
 }
 ```
 
- ** main function **
+ **main function**
 
 
 ```
@@ -13,7 +13,7 @@ int square(int a, int b) {
 }
 ```
 
- ** return result of a*b **
+ **return result of a*b**
 
 
 # CIRCLE
@@ -22,13 +22,13 @@ int square(int a, int b) {
 def area(r):
 ```
 
- ** returns area of cirle with radius r **
+ **returns area of cirle with radius r**
 
 ```
 def perimeter(r):
 ```
 
- ** return perimeter of circle with radius r **
+ **return perimeter of circle with radius r**
 
 
 # SQUARE PY
@@ -37,16 +37,16 @@ def perimeter(r):
 def area(a):
 ```
 
- ** returns area of square a **
+ **returns area of square a**
 
 ```
 def perimiter(a):
 ```
 
-** returns perimeter of square a **
+**returns perimeter of square a**
 
 
-##Changelog:
+## Changelog:
 
 
 ```
