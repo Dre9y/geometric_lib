@@ -20,6 +20,9 @@ jobs:
           python-version: 3.12
       - name: Run tests for module
         run: python -m unittest "circle.py"
+        run: python -m unittest "triangle.py"
+        run: python -m unittest "rectangle.py"
+        run: python -m unittest "square.py"
 
   tests-for-windows:
     runs-on: windows-latest
@@ -32,3 +35,6 @@ jobs:
           python-version: 3.12
       - name: Run tests for module
         run: python -m unittest "circle.py"
+        run: python -m unittest "triangle.py"
+        run: python -m unittest "rectangle.py"
+        run: python -m unittest "square.py"
